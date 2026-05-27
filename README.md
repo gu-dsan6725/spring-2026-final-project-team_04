@@ -4,7 +4,7 @@
 
 ## Team 04
 
-Qingyang Wang · Nandini Kodali · Caroline Delva · Xinzhou Li
+Qingyang Wang · [Nandini Kodali](https://www.linkedin.com/in/nandini-kodali/) · Caroline Delva · Xinzhou Li
 
 Georgetown University — DSAN 6725: Applied Generative AI for Developers — Spring 2026
 
